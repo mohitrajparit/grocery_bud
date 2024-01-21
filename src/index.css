@@ -126,15 +126,6 @@ h5 {
 }
 
 
-
-
-@keyframes spinner {
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-
 /* ============= PROJECT CSS =============== */
 
 .section-center {
